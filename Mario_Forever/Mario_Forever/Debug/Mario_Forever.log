@@ -1,0 +1,15 @@
+﻿  PlayingState.cpp
+c:\users\abayt\desktop\cs20 assignments\mario forever(sfml)\mario_forever\mario_forever\playingstate.cpp(21): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\abayt\desktop\cs20 assignments\mario forever(sfml)\mario_forever\mario_forever\playingstate.cpp(34): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\abayt\desktop\cs20 assignments\mario forever(sfml)\mario_forever\mario_forever\playingstate.cpp(35): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\abayt\desktop\cs20 assignments\mario forever(sfml)\mario_forever\mario_forever\playingstate.cpp(35): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\abayt\desktop\cs20 assignments\mario forever(sfml)\mario_forever\mario_forever\playingstate.cpp(46): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\abayt\desktop\cs20 assignments\mario forever(sfml)\mario_forever\mario_forever\playingstate.cpp(59): warning C4018: '<': signed/unsigned mismatch
+c:\users\abayt\desktop\cs20 assignments\mario forever(sfml)\mario_forever\mario_forever\playingstate.cpp(163): warning C4018: '<': signed/unsigned mismatch
+c:\users\abayt\desktop\cs20 assignments\mario forever(sfml)\mario_forever\mario_forever\playingstate.cpp(194): warning C4018: '<': signed/unsigned mismatch
+c:\users\abayt\desktop\cs20 assignments\mario forever(sfml)\mario_forever\mario_forever\playingstate.cpp(213): warning C4018: '<': signed/unsigned mismatch
+c:\users\abayt\desktop\cs20 assignments\mario forever(sfml)\mario_forever\mario_forever\playingstate.cpp(255): warning C4018: '<': signed/unsigned mismatch
+c:\users\abayt\desktop\cs20 assignments\mario forever(sfml)\mario_forever\mario_forever\playingstate.cpp(308): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\abayt\desktop\cs20 assignments\mario forever(sfml)\mario_forever\mario_forever\playingstate.cpp(344): warning C4018: '<': signed/unsigned mismatch
+c:\users\abayt\desktop\cs20 assignments\mario forever(sfml)\mario_forever\mario_forever\playingstate.cpp(366): warning C4715: 'abay::PlayingState::checkCollisionwithPipe': not all control paths return a value
+  Mario_Forever.vcxproj -> C:\Users\abayt\Desktop\CS20 ASSIGNMENTS\Mario Forever(SFML)\Mario_Forever\Debug\Mario_Forever.exe
